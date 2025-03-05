@@ -41,7 +41,7 @@ In addition to the exercises, I will be working on several projects that apply B
 - **Real-time data streaming with Apache Kafka**
 - **Data warehousing and business intelligence**
 
-Projects will be added as I progress through the course, showcasing the practical application of Big Data technologies.
+Projects will be added, showcasing the practical application of Big Data technologies.
 
 ## Resources
 This repository also includes valuable resources for learning Big Data:
