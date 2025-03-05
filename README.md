@@ -24,7 +24,6 @@ Here are some of the key topics covered in the course:
 7. **Big Data Analytics**
 8. **Data Visualization in Big Data**
 
-As I work through the course, I’ll be sharing my understanding of these topics with practical examples and code snippets.
 
 ## Exercises
 The repository contains individual exercises designed to reinforce each topic covered in the course. Each exercise includes:
