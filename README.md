@@ -16,13 +16,17 @@ Big Data refers to large, complex datasets that require advanced tools and techn
 ## Course Topics
 Here are some of the key topics covered in the course:
 1. **Introduction to Big Data**
-2. **Hadoop and MapReduce**
-3. **Spark and Distributed Computing**
-4. **NoSQL Databases (e.g., MongoDB, Cassandra)**
-5. **Data Warehousing and ETL (Extract, Transform, Load)**
-6. **Stream Processing with Apache Kafka**
-7. **Big Data Analytics**
-8. **Data Visualization in Big Data**
+2. **Cloud Computing**
+    - **Spark and Distributed Computing**
+    -  **Hadoop and MapReduce**
+3. **NoSQL Databases (e.g., MongoDB, Cassandra)**
+4. **Lambda architecture incl. batch, speed and serving layers**
+5. **Kappa Architecture** 
+6. **Concepts and tools for data stream processing**
+    - **Data Warehousing and ETL (Extract, Transform, Load)**
+    - **Stream Processing with Apache Kafka**
+    - **Big Data Analytics**
+7. **Up-to-date software systems for processing large amounts of data**
 
 
 ## Exercises
