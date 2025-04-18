@@ -15,7 +15,7 @@ Big Data refers to large, complex datasets that require advanced tools and techn
 
 ## Course Topics
 Here are some of the key topics covered in the course:
-1. **Introduction to Big Data**
+1. **Introduction to Big Data** https://youtu.be/itj95CpCwac?si=YWW8PZf3Q1i-T0KH
 2. **Cloud Computing**
     - **Spark and Distributed Computing**
     -  **Hadoop and MapReduce**
